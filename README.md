@@ -1,5 +1,5 @@
 # catd.club
-从Coding迁移至GitHub，Coding优先更新。<a href:"https://coding.net/u/CloudKylin/p/Catd.club">Coding项目地址。</a>
+从Coding迁移至GitHub，Coding优先更新。Coding项目地址：https://coding.net/u/CloudKylin/p/Catd.club
 
 主页(index.html)
 加入我们(join.html)
